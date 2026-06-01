@@ -1,4 +1,4 @@
-# Hi there, I'm Idris 👋
+# Hi there, I'm Noble 👋
 
 ## Aspiring Data Analyst
 
