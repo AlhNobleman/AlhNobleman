@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Idris 👋
 
-<!--
-**AlhNobleman/AlhNobleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am a Chemistry graduate transitioning into Data Analytics with a passion for turning raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am building skills in:
+
+- SQL
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Database Design
+
+## What I'm Working On
+
+- SQL projects and database management
+- Data analysis case studies
+- Dashboard development using Power BI
+- Portfolio projects for real-world business problems
+
+## Career Goals
+
+My goal is to become a professional Data Analyst, work on impactful projects, and build a career in data-driven decision making.
+
+## Tools & Technologies
+
+- SQL (MySQL)
+- Microsoft Excel
+- Power BI
+- Git & GitHub
+
+## Connect With Me
+
+- LinkedIn: [Add your LinkedIn link]
+- Email: [Add your email]
+
+Thanks for visiting my profile!
