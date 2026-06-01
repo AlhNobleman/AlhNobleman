@@ -33,7 +33,7 @@ My goal is to become a professional Data Analyst, work on impactful projects, an
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn link]
-- Email: [Add your email]
+- LinkedIn: www.linkedin.com/in/idris-shomoye-498849202
+- Email: Idrisshomoye@gmail.com
 
 Thanks for visiting my profile!
