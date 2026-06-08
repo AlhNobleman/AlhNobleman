@@ -35,5 +35,6 @@ My goal is to become a professional Data Analyst, work on impactful projects, an
 
 - LinkedIn: www.linkedin.com/in/idris-shomoye-498849202
 - Email: Idrisshomoye@gmail.com
+- Twitter (X): https://x.com/I_am_noblemann
 
 Thanks for visiting my profile!
