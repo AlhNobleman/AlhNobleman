@@ -9,6 +9,7 @@ Currently, I am building skills in:
 - SQL
 - Microsoft Excel
 - Power BI
+- Tableau
 - Data Cleaning
 - Data Visualization
 - Database Design
@@ -17,7 +18,7 @@ Currently, I am building skills in:
 
 - SQL projects and database management
 - Data analysis case studies
-- Dashboard development using Power BI
+- Dashboard development using Power BI, Tableau and Excel
 - Portfolio projects for real-world business problems
 
 ## Career Goals
@@ -28,6 +29,7 @@ My goal is to become a professional Data Analyst, work on impactful projects, an
 
 - SQL (MySQL)
 - Microsoft Excel
+- Tableau
 - Power BI
 - Git & GitHub
 
