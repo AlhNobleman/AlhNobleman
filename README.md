@@ -1,5 +1,3 @@
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/7aa592b3-297d-4d3c-9f3f-7561dd4b536e" />
-
 
 # Hi there, I'm Noble 👋
 
