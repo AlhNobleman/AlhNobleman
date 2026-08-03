@@ -1,7 +1,7 @@
 
 # Hi there, I'm Noble 👋
 
-## Aspiring Data Analyst
+## Data Analyst
 
 I am a Chemistry graduate transitioning into Data Analytics with a passion for turning raw data into meaningful insights.
 
