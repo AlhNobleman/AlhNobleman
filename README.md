@@ -15,6 +15,7 @@ Currently, I am building skills in:
 - Data Cleaning
 - Data Visualization
 - Database Design
+- AI Automation
 
 ## What I'm Working On
 
