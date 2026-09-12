@@ -1,5 +1,5 @@
 
-# Hi there, I'm Noble 👋
+# Hi there, I'm Shomoye 👋. Numbers should tell a story - I will make sure they do
 
 ## Data Analyst
 
@@ -24,7 +24,7 @@ Currently, I am building skills in:
 
 ## Career Goals
 
-My goal is to become a professional Data Analyst, work on impactful projects, and build a career in data-driven decision making.
+My goal is to become a professional Data Analyst, work on impactful projects, and build a career in data-driven decision making. 
 
 ## Tools & Technologies
 
