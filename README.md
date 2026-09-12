@@ -1,6 +1,7 @@
 
 # Hi there, I'm Shomoye 👋
-## Data Analyst -  Numbers should tell a story - I will make sure they do
+## Data Analyst
+*Numbers should tell a story - I will make sure they do.*
 
 
 I am a Chemistry graduate transitioning into Data Analytics with a passion for turning raw data into meaningful insights.
